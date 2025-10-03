@@ -3,10 +3,10 @@ background: #F3BFC7;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: #4B3D46;
-text-align: center;
-font-family: "Lucida Console", monospace; 
-font-size: large;
+    color: #4B3D46;
+    text-align: center;
+    font-family: "Lucida Console", monospace;     
+    font-size: 36px
 }
 .about {
     color: #4B3D46;
