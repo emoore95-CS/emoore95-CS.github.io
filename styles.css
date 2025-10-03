@@ -11,6 +11,10 @@ text-align: center;
     text-align: center;
     border: 10px #4B3D46;
     max-width: 700px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
