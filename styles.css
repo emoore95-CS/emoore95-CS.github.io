@@ -14,7 +14,7 @@ font-size: large;
     border-style: dashed;
     border-color: #4B3D46;
     border-width: 9px; 
-    max-width: 2000px;
+    max-width: 750px;
     margin: auto;
     display: flex;
     flex-direction: column;
