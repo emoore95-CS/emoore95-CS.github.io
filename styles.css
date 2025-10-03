@@ -12,7 +12,7 @@ text-align: center;
     border-style: dashed;
     border-color: #4B3D46;
     border-width: 9px; 
-    max-width: 1000px;
+    max-width: 2000px;
     margin: auto;
     display: flex;
     align-items: center;
@@ -22,5 +22,8 @@ text-align: center;
     text-align: center;
     text-decoration-style: double;
 }
-
+.pageAbout p {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
 
