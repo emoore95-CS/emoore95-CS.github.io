@@ -24,6 +24,7 @@ h1 {
 .about h2, 
 .about h4 {
     text-align: center;
+     width: 100%; 
 }
 .pageAbout {
     text-align: center;
