@@ -10,16 +10,16 @@ h1 {
 }
 .about {
     color: #4B3D46;
-    text-align: center;
+    text-align: left;
     border-style: dashed;
     border-color: #4B3D46;
     border-width: 9px; 
-    max-width: 500px;
+    max-width: 700px;
     margin: auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
 }
 .pageAbout {
     text-align: center;
