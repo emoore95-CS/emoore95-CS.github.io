@@ -10,7 +10,6 @@ h1 {
 }
 .about {
     color: #4B3D46;
-    text-align: left;
     border-style: dashed;
     border-color: #4B3D46;
     border-width: 9px; 
@@ -20,6 +19,9 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: flex-start; 
+}
+.about p {
+    text-align: left;
 }
 .about h2, 
 .about h4 {
