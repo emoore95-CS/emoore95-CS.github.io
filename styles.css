@@ -9,5 +9,9 @@ text-align: center;
 .about {
     color: #4B3D46;
     text-align: center;
+    border: 10px #4B3D46;
+    max-width: 700px;
 }
+
+
 
