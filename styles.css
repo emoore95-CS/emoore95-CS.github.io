@@ -5,7 +5,7 @@ font-family: Arial, Helvetica, sans-serif;
 h1 {
 color: #4B3D46;
 text-align: center;
-font-family: "Lucida Console";
+font-family: "Lucida Console", monospace; 
 font-size: large;
 }
 .about {
@@ -14,7 +14,7 @@ font-size: large;
     border-style: dashed;
     border-color: #4B3D46;
     border-width: 9px; 
-    max-width: 750px;
+    max-width: 500px;
     margin: auto;
     display: flex;
     flex-direction: column;
