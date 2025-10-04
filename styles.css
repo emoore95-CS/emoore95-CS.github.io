@@ -8,6 +8,11 @@ h1 {
     font-family: "Lucida Console", monospace;     
     font-size: 36px
 }
+nav{
+    background-color: #866464;
+    padding: 10px 0;
+    text-align: center;
+}
 .about {
     color: #4B3D46;
     text-align: center;
