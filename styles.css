@@ -13,8 +13,12 @@ nav{
     padding: 10px 0;
     text-align: center;
 }
-nav a{
-    border-right: 1px solid #CC5A5A;
+nav a {
+    color: #F3BFC7; 
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block; 
+    border-right: 1px solid #CC5A5A; 
 }
 
 nav a:last-child{
