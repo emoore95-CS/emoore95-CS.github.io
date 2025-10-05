@@ -13,6 +13,13 @@ nav{
     padding: 10px 0;
     text-align: center;
 }
+nav a{
+    border-right: 1px solid #CC5A5A;
+}
+
+nav a:last-child{
+    border-right: none;
+}
 .about {
     color: #4B3D46;
     text-align: center;
