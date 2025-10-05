@@ -69,3 +69,15 @@ nav a:last-child{
     text-decoration-style: double;
 }
 
+.skills,
+.projects,
+.contact{
+    background-color: #4B3D46;
+    text-align: center;
+    font-family: "Lucida Console", monospace;     
+    font-size: 36px
+}
+
+
+
+
