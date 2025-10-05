@@ -28,24 +28,28 @@ nav a:last-child{
 .about {
     color: #4B3D46;
     max-width: 300px; 
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto; 
     height: 300px; 
     display: flex;
     flex-direction: column;
     align-items: flex-start; 
     overflow: auto;
 }
+
 .about h2,
 .about h4{
     text-align: center;
     width: 100%;
 }
+.main-content {
+    width: 90%; 
+    max-width: 1000px; 
+    margin: 0 auto; 
+}
 
 .about h2{
     text-decoration: underline solid 5px; 
 }
-
 .pageAbout {
     text-align: center;
     text-decoration-style: double;
