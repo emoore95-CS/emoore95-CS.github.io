@@ -77,11 +77,12 @@ nav a:last-child{
     font-family: "Lucida Console", monospace;     
     font-size: 30px
 }
-.project-img 
-.project-pdf{
-    width: 50%;
+.project img, 
+.project-pdf {
+    width: 50%; 
     height: auto;
-    align-items: center; 
+    display: block; 
+    margin: 0 auto; 
 }
 
 .project {
