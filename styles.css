@@ -79,25 +79,20 @@ nav a:last-child{
 }
 .project img, 
 .project-pdf {
+    /* 🎯 FIX: Apply a larger percentage width (like 70%) */
     width: 70%; 
     height: auto;
     display: block; 
-    margin: 0 auto; 
-}
-.project img {
-    width: 150px; 
-    height: auto;
-    
-    display: block;
-    margin: 0 auto;
+    margin: 0 auto; /* Centers the image/link block */
 }
 
 .project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: #8B5B65;
-border-radius: 25%;
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #8B5B65;
+    border-radius: 25%;
+    text-align: center; 
 }
 .project-section-wrapper {
     display: flex;
@@ -112,11 +107,8 @@ border-radius: 25%;
     font-size: 35px
 }
 .project h3 {
-    text-align: center;
-    /* Optional: Ensure the text looks good */
     color: #4B3D46; 
     text-decoration: none;
-    text-align: initial;
 }
 
 
