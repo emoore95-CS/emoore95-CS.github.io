@@ -91,7 +91,8 @@ border-radius: 25%;
 }
 .projects { 
     display: flex; 
-    flex-wrap: wrap; /* or something similar */
+    flex-direction: column;
+    align-items: center;
 }
 
 
