@@ -81,7 +81,7 @@ nav a:last-child{
     width: 50%;
     height: auto;
 }
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+ /* condensed to save space */
 .project {
 width: 30%;
 margin: 10px;
