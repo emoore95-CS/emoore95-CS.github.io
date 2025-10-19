@@ -84,6 +84,13 @@ nav a:last-child{
     display: block; 
     margin: 0 auto; 
 }
+.project img {
+    width: 150px; 
+    height: auto;
+    
+    display: block;
+    margin: 0 auto;
+}
 
 .project {
 width: 30%;
@@ -109,6 +116,7 @@ border-radius: 25%;
     /* Optional: Ensure the text looks good */
     color: #4B3D46; 
     text-decoration: none;
+    text-align: initial;
 }
 
 
