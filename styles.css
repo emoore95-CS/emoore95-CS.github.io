@@ -109,7 +109,14 @@ nav a:last-child{
     color: #4B3D46; 
     text-decoration: none;
 }
-
+a{
+    text-decoration: none;
+    color:#F3BFC7;
+}
+.project p {
+    text-align: center;
+    margin: 15px;
+}
 
 
 
