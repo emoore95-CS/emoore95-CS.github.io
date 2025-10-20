@@ -106,8 +106,10 @@ nav a:last-child{
     font-size: 35px
 }
 .project h3 {
-    color: #4B3D46; 
+    color: #4B3D46;
     text-decoration: none;
+    font-family:"Lucida Console", monospace;     
+    font-size: 20px;
 }
 a{
     text-decoration: none;
