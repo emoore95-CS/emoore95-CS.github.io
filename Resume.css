@@ -2,5 +2,15 @@
 .head{
     display: flex;
     margin-bottom: 20px;
+    
 }
+.head title {
+    width: 25%;
+    font-weight: bold;
+    color: #2c3e50;
+}
+.content{
+    width: 75%;
+}
+
 
