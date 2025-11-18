@@ -4,12 +4,16 @@
     margin-bottom: 20px;
     
 }
-.content{
+.head{
     /*AI helped me write this */
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
+}
+.content{
+    text-align: right;
+    margin: 0;
 }
 
 
