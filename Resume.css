@@ -1,18 +1,21 @@
 
 .head{
+    /*AI helped me write this */
     display: flex;
     margin-bottom: 20px;
-    
-}
-.head{
-    /*AI helped me write this */
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
 }
 .content{
+     /*AI helped me write this */
+    display: flex;
+    flex-direction: column;
     text-align: right;
+}
+.content p{
+     /*AI helped me write this */
     margin: 0;
 }
 
