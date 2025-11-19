@@ -12,7 +12,9 @@
     display: flex;
     flex-direction: column;
 }
-.content p{
+.content p,
+.content ul,
+.content li{
      /*AI helped me write this */
     margin: 0;
     line-height: 1.1;
