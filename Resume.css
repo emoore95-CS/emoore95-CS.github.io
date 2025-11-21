@@ -39,5 +39,14 @@
     width: 35%;
 }
 
+.content p{
+    margin: 0;
+    line-height: 1;
+}
+
+.rightside{
+    margin-top: 35px;
+}
+
 
 
