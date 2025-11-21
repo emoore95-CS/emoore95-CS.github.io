@@ -47,8 +47,13 @@
 .rightside{
     margin-top: 50px;
 }
-li{
+/* li{
     font-size: 80px;
+} */
+
+.mainbody{
+    font-size: 40px;
+
 }
 
 
