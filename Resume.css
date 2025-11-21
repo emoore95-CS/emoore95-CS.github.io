@@ -1,30 +1,43 @@
 
-.head{
+/*.head{
     /*AI helped me write this */
-    display: flex;
+   /*display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
     margin-bottom: 20px;
 }
-.content{
+/*.content{
      /*AI helped me write this */
-    display: flex;
+    /*display: flex;
     flex-direction: column;
 }
-.content p,
+/*.content p,
 .content ul,
 .content li{
      /*AI helped me write this */
-    margin: 0;
+    /*margin: 0;
     line-height: 1.1;
 }
 
-.head.title h1{
+/* .head.title h1{
     /*AI helped me write this */
-     margin: 0;
+   /*  margin: 0;
+/*}
+*/
+.mainbody{
+    /* AI helped me write this */
+    display: flex;
+    justify-content: space-between;
 }
 
+.leftside{
+    width: 60%;
+}
+ 
+.rightside{
+    width: 35%;
+}
 
 
 
