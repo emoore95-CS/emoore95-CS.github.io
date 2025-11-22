@@ -47,8 +47,11 @@
 .rightside{
     margin-top: 50px;
 }
+p{
+     font-size: 18px;
+}
 li{
-    font-size: 13px;
+    font-size: 15px;
 }
 
 
