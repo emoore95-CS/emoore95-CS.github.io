@@ -119,19 +119,6 @@ a{
     text-align: center;
     margin: 15px;
 }
-.resume {
-    color: #4B3D46;
-    font-family: "Lucida Console", monospace;
-    
-    /* ADD THIS: Makes the text a single block and pushes it to the front */
-    display: block; 
-    position: relative; 
-    z-index: 100; 
-    
-    /* ADD THIS: Make it large enough to see */
-    font-size: 20px; 
-    text-align: center; 
-}
 
 /* Ensure the links themselves also inherit the color */
 .resume a {
