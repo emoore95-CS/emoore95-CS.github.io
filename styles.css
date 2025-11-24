@@ -120,7 +120,6 @@ a{
     margin: 15px;
 }
 
-/* Ensure the links themselves also inherit the color */
 .resume a {
     font-family:"Lucida Console", monospace;    
     color: #4B3D46; 
