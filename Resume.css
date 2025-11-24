@@ -21,15 +21,16 @@
 .rightside{
     margin-top: 50px;
 }
-p{
-     font-size: 15px;
+p, li{
+     font-size: 10.5pt;
 }
-li{
+/* li{
     font-size: 15px;
     margin-bottom: 1px;
-}
+} */
 
 h3{
+    font-size: 13pt;
     margin-bottom: 5px;
 }
 
